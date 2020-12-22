@@ -41,7 +41,7 @@ $(document).ready(function(){
 		})
 
 
-		$(".alert").show().delay(2000).fadeOut();
+		$(".alert").show().delay(1000).fadeOut();
 
 		
 	})
